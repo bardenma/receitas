@@ -30,6 +30,6 @@ O app foi projetado para ser uma ferramenta de autoavaliação e motivação, of
 
 O aplicativo foi desenvolvido no ambiente online **Expo Snack**, o que permite sua execução em qualquer dispositivo.
 
-*   **Para testar online:** Acesse o link do projeto no Expo Snack [**<-- COLOQUE O LINK DO SEU SNACK AQUI**].
+*   **Para testar online:** Acesse o link do projeto no Expo Snack (https://snack.expo.dev/@maribp/receitas).
 *   **Para instalar no Android:** O arquivo de instalação (`.apk`) pode ser encontrado na seção de **Releases** deste repositório.
 
